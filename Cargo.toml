@@ -1,0 +1,14 @@
+[package]
+authors = ["Sergey Sova <mail@sergeysova.com>"]
+description = "Attribute-based access control for any Rust project"
+edition = "2018"
+homepage = "https://github.com/sergeysova/can-you.rs"
+keywords = ["config", "rust-patterns", "data-structures"]
+license = "MIT"
+name = "can-you"
+repository = "https://github.com/sergeysova/can-you.rs"
+version = "0.0.0-initial"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
